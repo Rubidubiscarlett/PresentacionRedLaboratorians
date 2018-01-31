@@ -108,3 +108,13 @@ y negro #000*/
   padding-left: 15px;
   padding-right: 15px;
 }
+
+.imagen-gracias{
+  width: 15vw;
+  height: 15vh;
+  display: block;
+  text-align: center;
+  padding: auto;
+  padding-left: 120px;
+
+}
